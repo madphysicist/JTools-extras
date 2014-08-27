@@ -38,7 +38,7 @@
 
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
  
-<suite name="JTools Extras Unit Tests">
+<suite name="JTools-extras Unit Tests">
    <test name="Project Components Test">
       <packages>
          <package name="com.madphysicist.toolsx" />
