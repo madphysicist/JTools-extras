@@ -3,7 +3,7 @@
 ##
 ## install.sh
 ##
-## JTools Extras Project
+## Mad Physicist JTools Extras Project
 ##
 ## The MIT License (MIT)
 ##
