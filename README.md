@@ -1,3 +1,5 @@
+This project has moved to GitLab: https://gitlab.com/madphysicist/jtools-extras. Please download the latest code and submit issues there rather than GitHub, which will no longer be monitored until this stale clone is deleted.
+
 JTools-extras
 =============
 
@@ -22,4 +24,3 @@ Update local paths to these files in config/local.properties in the section cont
 If testng requires additional dependencies (older versions require qdox.jar and bsh.jar, while some newer versions require jcommander.jar), edit the `testng-jars` path in the `compile-init` target in config/setup.xml
 
 Versions of config/local.properties suitable for Ubuntu and Arch based systems are present in the repository. They should be renamed to config/local.properties before use.
-
